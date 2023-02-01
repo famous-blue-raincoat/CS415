@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/School/UIUC/CS415/InfiniteMatrix-20230130T040115Z-001/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"D:/School/UIUC/CS415/InfiniteMatrix-20230130T040115Z-001/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"D:/Program Files/Epic Games/UE_5.1/Engine/Content/BasicShapes/Cube.uasset",
+				"D:/School/UIUC/CS415/InfiniteMatrix-20230130T040115Z-001/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/HUD.uasset",
+				"D:/School/UIUC/CS415/InfiniteMatrix-20230130T040115Z-001/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/ScreenFlash.uasset",
+				"D:/School/UIUC/CS415/InfiniteMatrix-20230130T040115Z-001/InfiniteMatrix/Content/InfiniteMatrix/Materials/T_ColorGrid.uasset",
+				"D:/Program Files/Epic Games/UE_5.1/Engine/Content/EngineDebugMaterials/TangentColorMaterial.uasset",
+				"D:/School/UIUC/CS415/InfiniteMatrix-20230130T040115Z-001/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"D:/School/UIUC/CS415/InfiniteMatrix-20230130T040115Z-001/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"D:/School/UIUC/CS415/InfiniteMatrix-20230130T040115Z-001/InfiniteMatrix/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"D:/School/UIUC/CS415/InfiniteMatrix-20230130T040115Z-001/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset"
+			]
+		}
+	]
+}
