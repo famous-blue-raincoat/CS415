@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/School/UIUC/CS415/CS415_MP2-20230224T192131Z-001/CS415_MP2/Content/MP2/Maps/MP2_Map.umap",
+				"D:/School/UIUC/CS415/CS415_MP2-20230224T192131Z-001/CS415_MP2/Content/MP2/Maps/Untitled.umap",
+				"D:/School/UIUC/CS415/CS415_MP2-20230224T192131Z-001/CS415_MP2/Content/MP2/Blueprints/PlayerCharacter/AI/Mortar_AI/BP_MorterBombs.uasset",
+				"D:/School/UIUC/CS415/CS415_MP2-20230224T192131Z-001/CS415_MP2/Content/MP2/Blueprints/PlayerCharacter/Bullet.uasset",
+				"D:/School/UIUC/CS415/CS415_MP2-20230224T192131Z-001/CS415_MP2/Content/MP2/Blueprints/PlayerCharacter/AI/Mortar_AI/Enemy_Mortar.uasset",
+				"D:/School/UIUC/CS415/CS415_MP2-20230224T192131Z-001/CS415_MP2/Content/MP2/Blueprints/PlayerCharacter/EnemyBulletSpawner.uasset"
+			]
+		}
+	]
+}
